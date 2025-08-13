@@ -15,8 +15,8 @@ Functions for:
   
 Showcase Skills:
 
-API design and packaging
+- API design and packaging
 
-Testing, CI/CD, Git best practices
+- Testing, CI/CD, Git best practices
 
-Contribution-ready code
+- Contribution-ready code
